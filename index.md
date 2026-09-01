@@ -5,7 +5,7 @@ title: SubTrack Legal
 
 # SubTrack — Legal
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
+- [Privacy Policy](/legal/privacy)
+- [Terms of Service](/legal/terms)
 
 For questions, contact **febraistanbul@gmail.com**.

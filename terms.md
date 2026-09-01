@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terms of Service
+permalink: /legal/terms
 ---
 
 # Terms of Service
@@ -100,13 +101,13 @@ You are solely responsible for the legality and accuracy of Your Content.
 
 The optional bank-connection feature is provided through a regulated open-banking provider disclosed in-app at the moment of connection. By using this feature you authorize that provider to access transaction data from the bank account(s) you select, on a read-only basis, for the purpose of identifying recurring charges within the Service.
 
-You may disconnect the bank link at any time. See the [Privacy Policy](privacy) for retention details.
+You may disconnect the bank link at any time. See the [Privacy Policy](/legal/privacy) for retention details.
 
 ---
 
 ## 8. Third-party services
 
-The Service relies on third-party platforms (Apple, Google, Cloudflare, Railway, Resend, open-banking provider). Your use of those platforms is subject to their own terms. Anotherlabs is not responsible for outages, errors, or policy changes of those third parties.
+The Service relies on third-party platforms (Apple, Google, Cloudflare, Resend, Tigris Data, our hosting provider in Istanbul, and, if you use it, the open-banking provider). Your use of those platforms is subject to their own terms. Anotherlabs is not responsible for outages, errors, or policy changes of those third parties.
 
 ---
 
