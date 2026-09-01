@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Privacy Policy
+permalink: /legal/privacy
 ---
 
 # Privacy Policy
 
-**Effective date:** 2026-05-14
-**Last updated:** 2026-05-14
+**Effective date:** 2026-09-01
+**Last updated:** 2026-09-01
 
 This Privacy Policy describes how Anotherlabs (a sole proprietorship operating under the trade name "Anotherlabs", based in Türkiye; referred to as **"we"**, **"us"**, or **"Anotherlabs"**) collects, uses, and shares information when you use the **SubTrack** mobile application and related services (collectively, the **"Service"**).
 
@@ -125,17 +126,18 @@ We share personal data only with the categories of processors strictly required 
 
 | Purpose | Recipient | Region |
 |---|---|---|
-| Cloud hosting and database | Railway | United States |
+| Cloud hosting and database | Servers we operate ourselves at a hosting provider in Istanbul, Türkiye | Türkiye |
 | CDN and edge security | Cloudflare | Global edge |
 | Transactional email delivery | Resend | United States / EU |
 | Push notification delivery | Apple (APNS), Google (Firebase Cloud Messaging) | Apple/Google regions |
 | In-app purchase processing | Apple App Store, Google Play | Apple/Google regions |
 | Bank-connection data (only if you opt in) | Regulated open-banking provider disclosed in-app at the moment of connection | EU/EEA |
-| Crash and error telemetry | Self-hosted; no third-party analytics SDK | — |
+| Export files you generate (PDF/CSV) and encrypted database backups | Tigris Data (S3-compatible object storage) | Globally distributed; provider established in the United States |
+| Crash and error telemetry | Self-hosted on the servers described above; no third-party analytics SDK | — |
 
 Each recipient processes personal data only on our instructions, under a written data-processing agreement where required by law.
 
-International transfers from the EEA, UK, or Türkiye to the United States are protected by Standard Contractual Clauses where the processor offers them.
+Your account data is processed on servers we operate in Türkiye. Transactional email, push delivery, in-app purchase processing, and export/backup storage remain with the providers listed above and may involve transfers to the United States or to Apple's and Google's regions; where those providers offer them, such transfers are covered by Standard Contractual Clauses. If you are in the EEA or the UK, note that your data is transferred to Türkiye, which is not covered by a European Commission adequacy decision; we rely on Standard Contractual Clauses and the safeguards described in section 9 for that transfer.
 
 We do **not** sell personal data and we do **not** share personal data for cross-context behavioral advertising.
 
@@ -151,6 +153,7 @@ We do **not** sell personal data and we do **not** share personal data for cross
 | Push tokens | Refreshed regularly by the OS; revoked on logout or account deletion |
 | Authentication audit logs (IP, user-agent) | Up to 90 days |
 | Support tickets | Up to 24 months after the ticket is closed |
+| Files attached to support tickets | Deleted 90 days after the ticket is closed; the correspondence itself is kept for the period above |
 | Billing records | As required by Turkish tax and consumer law (typically up to 10 years) |
 | Backups | Encrypted backups roll over within 35 days |
 
