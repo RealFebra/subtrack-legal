@@ -1,11 +1,17 @@
 ---
 layout: default
-title: SubTrack Legal
+title: Subtrack Legal (moved)
 ---
 
-# SubTrack — Legal
+<meta http-equiv="refresh" content="0; url=https://subtrack.anotherlabs.co/legal">
+<link rel="canonical" href="https://subtrack.anotherlabs.co/legal">
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
+# This document has moved
 
-For questions, contact **febraistanbul@gmail.com**.
+The Subtrack Legal is now published at
+[https://subtrack.anotherlabs.co/legal](https://subtrack.anotherlabs.co/legal).
+
+This copy is no longer maintained and the text that was here is out of date.
+It is kept only so existing links resolve.
+
+Questions: **febraistanbul@gmail.com**
